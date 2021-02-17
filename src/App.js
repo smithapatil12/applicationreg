@@ -9,7 +9,7 @@ class App extends Component {
   
     return (
     <form className="base-contanier">
-     <h1 className="text-center">my website.com</h1>
+     <h1 className="text-center">REGISITRATION PAGE</h1>
      <h2 className="text-center">welcome</h2>
      <formgroup>
       <div>
