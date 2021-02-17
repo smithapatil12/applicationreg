@@ -13,7 +13,7 @@ class App extends Component {
      <h2 className="text-center">welcome</h2>
      <formgroup>
       <div>
-       <label className="text-centre">email</label>
+       <label className="input">email</label>
       </div>
        <input type="email" placeholder="email"/>
      </formgroup>
