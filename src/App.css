@@ -35,10 +35,10 @@
      align-items: flex-start;
      width:fit-content;
    }
-     label {
+     .label {
        font-size: 20px;
      }
-   input {
+   .input {
      margin-top: 6px;
      min-width: 18em;
      height: 37px;
