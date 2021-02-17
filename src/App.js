@@ -8,12 +8,12 @@ class App extends Component {
   render () {
   
     return (
-    <form className="base-contanier">
+    <form className="text-center">
      <h1 className="text-center">REGISITRATION PAGE</h1>
      <h2 className="text-center">welcome</h2>
      <formgroup>
       <div>
-       <label className="input">email</label>
+       <label className="text-centre">email</label>
       </div>
        <input type="email" placeholder="email"/>
      </formgroup>
