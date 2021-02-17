@@ -13,19 +13,19 @@ class App extends Component {
      <h2 className="text-center">welcome</h2>
      <formgroup>
       <div>
-       <label className="base-container">email</label>
+       <label className="input">email</label>
       </div>
        <input type="email" placeholder="email"/>
      </formgroup>
 <div>
      <formgroup>
       <div>
-       <label className="base-container">password</label>
+       <label className="input">password</label>
       </div>
        <input type="password" placeholder="password"/>
      </formgroup>
     </div>
-     <button className="submit,btn-lg"> log in </button>
+     <button className="submit,btn-lg btn-color-blue"> log in </button>
     </form>
   );
 }
